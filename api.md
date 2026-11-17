@@ -86,12 +86,6 @@ every_ticks, delay_ticks
 task.spawn, task.delay, task.defer, task.cancel, task.wait
 os.clock, os.time, os.difftime, os.date
 
-## ui
-new_checkbox, new_slider, new_combobox, new_hotkey, new_button,
-new_listbox, new_multiselect, new_color_picker, new_label, new_textbox,
-set, get, set_visible, set_callback, reference, menu_position, menu_size,
-is_menu_open, mouse_position
-
 ## menu
 new_tab, get_or_create_section, new_checkbox, new_combobox, new_slider,
 new_hotkey, find, get, set, set_callback, set_visible
